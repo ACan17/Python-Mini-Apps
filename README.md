@@ -28,3 +28,6 @@ If you want, you can add tools that you find useful.
 [QRCode Generator](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/QRCodeGenerator.py).
 
 
+[Story Generator](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/StoryGenerator.py).
+
+
