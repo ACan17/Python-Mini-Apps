@@ -7,6 +7,9 @@ If you want, you can add tools that you find useful.
 
 # Projects
 
+[Github Profile Scrapping](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/Scraping-GithubProfile.py).
+
+
 [YouTubeVideoDownloader GUI](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/YoutubeVideoDownloaderGUI.py).
 
 
@@ -29,5 +32,7 @@ If you want, you can add tools that you find useful.
 
 
 [Story Generator](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/StoryGenerator.py).
+
+
 
 
