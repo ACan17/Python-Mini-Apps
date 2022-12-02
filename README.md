@@ -10,6 +10,9 @@ If you want, you can add tools that you find useful.
 [Github Profile Scrapping](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/Scraping-GithubProfile.py).
 
 
+[Spell Checker and Translator](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/SpellCheckerAndTranslateWordList.py).
+
+
 [YouTubeVideoDownloader GUI](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/YoutubeVideoDownloaderGUI.py).
 
 
