@@ -37,5 +37,6 @@ If you want, you can add tools that you find useful.
 [Story Generator](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/StoryGenerator.py).
 
 
+[Randomly Desktop Wallpaper](https://github.com/ahmetcancakar/Python-Mini-Apps/blob/master/RandomDesktopWallpaper.py).
 
 
